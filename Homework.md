@@ -42,28 +42,13 @@ https://www.youtube.com/watch?v=KXw8CRapg7k
 
 ##  Lesson Nr.2
 
-## Basic terms for this lesson, part 1;
+## Базовые тепмены первого семинара
 * *git init* - команда иннициализирующая ркпозиторий;
 * *git add* - добавляет актуальную версию указаного файла к отслеживанию;
 
-## Basic terms for this lesson, part 2;
+## Базовые термены второго семинара
 * *git branch* - команда, отображающая список существующих веток;
 * *git merge branch_name* - команда, осуществляющая слияние ттекущей ветки с branch_name;
 
-## Basic terms for this lesson, part 3;
+## Базовые термены третьего семинара 
 * *spoiler one* - первая очень полезная команда с третьего семинара; 
-
-
-
-## Homework from Lesson 2
- Description what I will use during the procesc
-
-**1.** *Creating a branch using git branch command*
-
-**2.** *Switching through the brachances named "Homework, HomeworkSecondBranch, ThirdBranch, FourthBranch" using (git checkout -b) command*
-
-**3** *Using (git branch -a) command to look on what branch are we* 
-
-**4** *Created a file named (ThirdBranch) then used* **git commit** *comand*
-
-**5** *Used **git merge** with Homework to merge with ThirdBranch* 
